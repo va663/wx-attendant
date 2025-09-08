@@ -4,5 +4,5 @@
 
 ## 说明
 本项目包含两个组件WxAttacher, WxCollector  
-WxAttacher: 管理控制，连接外部环境用
+WxAttacher: 管理控制，连接外部环境用  
 WxCollector: 真正注入到wx实现功能，并和WxAttacher通信
